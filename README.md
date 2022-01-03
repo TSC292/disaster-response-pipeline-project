@@ -1,0 +1,2 @@
+# disaster-response-pipeline-project
+ This is a project to practice developing ETL pipelines and ML pipelines. Data used relates contains messages sent by the public some of which relate to disasters. The aim is to develop an ETL pipeline and a ML pipeline to predict a disaster category (or none at all) for new messages. The model is deployed via a web app where the user can input a message and a category is returned if it was classified as relating to a disaster.
